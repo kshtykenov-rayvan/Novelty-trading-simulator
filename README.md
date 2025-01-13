@@ -1,4 +1,4 @@
-# Buyer-s-Dialogue
+# Novelty-trading-simulator
 
 ## Как запустить проект:
 
